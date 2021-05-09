@@ -1,0 +1,4 @@
+#Sun May 09 19:03:51 IST 2021
+base.0=/Users/shreyesl/gitProjects/magimera/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
